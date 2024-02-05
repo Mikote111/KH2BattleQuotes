@@ -1,0 +1,8 @@
+title: KH2 Battle Quotes
+description: Gives Sora the battle quotes from KH2.
+assets:
+#Battle Quotes
+- name: sound\en\output\VOICE\BATTLE\vo_sr.win32.scd
+  method: copy
+  source: 
+  - name: vo_sr.win32.scd
